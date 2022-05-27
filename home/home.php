@@ -12,7 +12,7 @@
 <body>
   <div class="container">
     <!-- navbar -->
-    <?php require('header.php'); ?>
+    <?php require('hed/header.php'); ?>
     <!-- akhir navbar -->
 
     <div class="content">
@@ -21,7 +21,7 @@
     </div>
 
     <!-- footer -->
-    <?php require('footer.php'); ?>
+    <?php require('hed/footer.php'); ?>
     <!-- akhir footer -->
   </div>
 
