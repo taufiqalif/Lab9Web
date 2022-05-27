@@ -11,3 +11,17 @@
 ![08.png](img/08.png)
 
 ![09.png](img/09.png)
+
+## Mengimplementasikan pada Lab8Web
+
+![01.png](img/01.png)
+
+![02.png](img/02.png)
+
+![03.png](img/03.png)
+
+![04.png](img/04.png)
+
+![05.png](img/05.png)
+
+![06.png](img/06.png)
