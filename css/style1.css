@@ -81,17 +81,17 @@ tr:hover {
 
 /* tambah data */
 
-.input {
-  width: 50%;
+/* .input {
+  width: 100%;
   padding: 10px 15px;
-  margin: 8px 0;
+  margin: 5px 0;
   display: inline-block;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-}
+} */
 
-input[type='text'],
+/* input[type='text'],
 [type='number'],
 select {
   width: 100%;
@@ -101,7 +101,7 @@ select {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-}
+} */
 
 /* input[type='number'],
 select {

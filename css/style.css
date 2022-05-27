@@ -1,18 +1,18 @@
-* {
+/* * {
   padding: 0;
   margin: 0;
-}
+} */
 
-body {
+/* body {
   background: #ffffff;
-}
+} */
 
-.container {
+/* .container {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
-}
+} */
 
 nav {
   list-style-type: none;

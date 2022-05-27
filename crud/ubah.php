@@ -71,6 +71,9 @@ function is_select($var, $val)
 
 <body>
   <div class="container">
+    <!-- header -->
+    <?php require('../hed/header.php'); ?>
+    <!-- akhir header -->
     <h1>Update Barang</h1>
     <a href="../index.php" class="data">Data Barang</a>
     <div class="main">
@@ -111,6 +114,9 @@ function is_select($var, $val)
         </div>
       </form>
     </div>
+    <!-- footer -->
+    <?php require('../hed/footer.php'); ?>
+    <!-- akhir footer -->
   </div>
 </body>
 
