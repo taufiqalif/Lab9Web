@@ -2,5 +2,5 @@
 
 <hr>
 <h3>Lab10Web</h3>
-<p><a href="https://github.com/taufiqalif/Lab10Web" ></p>
+<p><a href="https://github.com/taufiqalif/Lab10Web" target="_blank"></p>
 <hr>
