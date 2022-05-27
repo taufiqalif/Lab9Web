@@ -22,10 +22,7 @@ if (isset($_POST['submit'])) {
 
   if (mysqli_affected_rows($conn) > 0) {
     echo "
-      <script>
-        alert('Data berhasil ditambahkan');
-        document.location.href = 'index.php';
-      </script>
+      berhasil
     ";
   } else {
     echo "

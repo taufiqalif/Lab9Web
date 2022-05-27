@@ -41,7 +41,7 @@ $result = mysqli_query($conn, $sql);
         <?php while ($row = mysqli_fetch_array($result)) :  ?>
         <tr>
           <td><?= $i; ?></td>
-          <td><img src="gambar/<?= $row['gambar']; ?>" alt="<?= $row['nama']; ?>" width="100">
+          <td><img src="crud/gambar/<?= $row['gambar']; ?>" alt="<?= $row['nama']; ?>" width="100">
           </td>
           <td><?= $row['nama']; ?></td>
           <td><?= $row['kategori']; ?></td>
