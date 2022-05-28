@@ -5,7 +5,7 @@
 
 body {
   font-size: 16px;
-  background: #f5f5f5;
+  background: #ffffff;
 }
 .container {
   width: 100%;
@@ -50,7 +50,7 @@ h1 {
 }
 
 .button {
-  background-color: #369339; /* Green */
+  background-color: #494eab; /* Green */
   border: none;
   color: white;
   padding: 8px;
